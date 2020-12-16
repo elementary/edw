@@ -26,9 +26,21 @@
 
     <meta name="support-link" content="https://elementary.io/get-involved#funding" />
     <style>
+      :root {
+        --background-color: #fafafa;
+        --primary-color: #452981;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background-color: #0e141f;
+          --primary-color: #e4c6fa;
+        }
+      }
+
       html {
-        background: #0e141f;
-        color: #e4c6fa;
+        background: var(--background-color);
+        color: var(--primary-color);
         display: flex;
         font-family: Inter, sans-serif;
         font-size: 24px;
