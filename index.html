@@ -29,12 +29,14 @@
       :root {
         --background-color: #fafafa;
         --primary-color: #452981;
+        --text-color: #333;
       }
 
       @media (prefers-color-scheme: dark) {
         :root {
           --background-color: #0e141f;
           --primary-color: #e4c6fa;
+          --text-color: white;
         }
       }
 
@@ -43,14 +45,15 @@
         color: var(--primary-color);
         display: flex;
         font-family: Inter, sans-serif;
-        font-size: 24px;
-        height: 100%;
+        font-size: 16px;
+        min-height: 100%;
         text-align: center;
       }
 
       body {
         align-self: center;
-        margin: -2em auto 2em;
+        margin: 6em auto 20em;
+        max-width: 70ch;
       }
 
       h1 {
@@ -59,14 +62,37 @@
         background-repeat: no-repeat;
         background-size: contain;
         color: transparent;
-        font-size: 8em;
+        font-size: 11em;
         line-height: 1;
         margin: 0;
+      }
+
+      h2 {
+        font-size: 2em;
+        font-weight: 300;
+        margin: 0.5em 0 2em;
+      }
+
+      h3 {
+        font-size: 1.5em;
+        font-weight: 400;
+        text-align: left;
+      }
+
+      p {
+        color: var(--text-color);
+        text-align: left;
+        line-height: 1.5em;
       }
     </style>
   </head>
   <body>
     <h1>edw</h1>
-    <p>Coming 2021</p>
+    <h2>Online June 26–27, 2021</h2>
+    <p>We started dreaming quite a few years back about creating a conference for Open Source app developers. There are a lot of conferences for the people already on the inside—the people building the platforms and big first party apps, but what we really want is to create a space to bring in the people on the outside and include them in the process. This conference is our way of reaching out to app developers, sharing the knowledge we've collected over the years, and giving you a space to ask questions and provide feedback.</p>
+    <p>We're really excited to invite you to the first annual elementary developer weekend 🎉️</p>
+    <h3>Call for Papers</h3>
+    <p>We need your help to make this conference a reality and we're now taking submissions for your presentations. Topics should be primarily educational, focused on design, engineering, or entrepreneurship, and can range in target audience from those seeking to build their first app to experienced developers looking to take their apps to the next level. This is your opportunity to share your expertise with the community.</p>
+    <a href="">Submit a Presentation Concept →</a>
   </body>
 </html>
