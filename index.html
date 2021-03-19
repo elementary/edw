@@ -4,11 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
 
-    <title>edw</title>
+    <title>edw • elementary Developer Weekend</title>
 
-    <meta property="og:title" content="edw">
-    <meta itemprop="name" content="edw">
-    <meta name="twitter:title" content="edw">
+    <meta property="og:title" content="edw • elementary Developer Weekend">
+    <meta itemprop="name" content="edw • elementary Developer Weekend">
+    <meta name="twitter:title" content="edw • elementary Developer Weekend">
 
     <meta name="author" content="elementary, Inc.">
     <meta name="theme-color" content="#0e141f">
@@ -19,38 +19,58 @@
     <meta name="twitter:site" content="@elementary">
     <meta name="twitter:creator" content="@elementary">
 
-    <meta name="description" content="Coming 2021">
-    <meta property="og:description" content="Coming 2021">
-    <meta itemprop="description" content="Coming 2021">
-    <meta name="twitter:description" content="Coming 2021">
+    <meta name="description" content="Online · June 26–27, 2021">
+    <meta property="og:description" content="Online · June 26–27, 2021">
+    <meta itemprop="description" content="Online · June 26–27, 2021">
+    <meta name="twitter:description" content="Online · June 26–27, 2021">
 
     <meta name="support-link" content="https://elementary.io/get-involved#funding" />
     <style>
       :root {
-        --background-color: #fafafa;
-        --primary-color: #452981;
+        /* #fafafa in RGB */
+        --background-color: 250, 250, 250;
+
+        /* #452981 in RGB */
+        --primary-color: 69, 41, 129;
+
+        /* #64baff in RGB */
+        --alt-color: 100, 186, 255;
+
+        /* #333 in RGB */
+        --text-color: 51, 51, 51;
       }
 
       @media (prefers-color-scheme: dark) {
         :root {
-          --background-color: #0e141f;
-          --primary-color: #e4c6fa;
+          /* #0e141f in RGB */
+          --background-color: 14, 20, 31;
+
+          /* #e4c6fa in RGB */
+          --primary-color: 228, 198, 250;
+
+          /* #89ffdd in RGB */
+          --alt-color: 137, 255, 221;
+
+          /* white in RGB */
+          --text-color: 255, 255, 255;
         }
       }
 
       html {
-        background: var(--background-color);
-        color: var(--primary-color);
+        background: rgb(var(--background-color));
+        color: rgb(var(--primary-color));
         display: flex;
         font-family: Inter, sans-serif;
-        font-size: 24px;
-        height: 100%;
+        font-size: 16px;
+        min-height: 100%;
         text-align: center;
       }
 
       body {
         align-self: center;
-        margin: -2em auto 2em;
+        margin: 2em auto;
+        max-width: 70ch;
+        padding: 1em;
       }
 
       h1 {
@@ -59,14 +79,64 @@
         background-repeat: no-repeat;
         background-size: contain;
         color: transparent;
-        font-size: 8em;
+        font-size: 11em;
         line-height: 1;
         margin: 0;
       }
+
+      h2 {
+        font-size: 2em;
+        font-weight: 300;
+        margin: 0.5em 0 2em;
+      }
+
+      h3 {
+        font-size: 1.5em;
+        font-weight: 400;
+        text-align: left;
+      }
+
+      p {
+        color: rgb(var(--text-color));
+        text-align: left;
+        line-height: 1.5em;
+      }
+
+      a {
+        color: rgb(var(--primary-color));
+      }
+
+      .button {
+        display: inline-block;
+        padding: 1em;
+        background-color: rgb(var(--primary-color));
+        border-radius: 0.25em;
+        color: rgb(var(--background-color));
+        text-decoration: none;
+        margin: 2em 1em;
+        opacity: 0.8;
+        transition: all 150ms ease;
+      }
+
+      .button:hover {
+        opacity: 1;
+        background-color: rgb(var(--alt-color));
+        box-shadow:
+          0 0.125em 1em rgba(var(--alt-color), 0.5),
+          0 0.125em 2em rgba(var(--alt-color), 0.25);
+      }
     </style>
+    <script async defer data-domain="edw.elementary.io" src="https://stats.elementary.io/js/index.outbound-links.js"></script>
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
   </head>
   <body>
     <h1>edw</h1>
-    <p>Coming 2021</p>
+    <h2>Online · June 26–27, 2021</h2>
+    <p>For years we’ve dreamed about creating a conference for Open Source app developers. There are conferences for the people already on the inside—the people building the platforms and big first-party apps, but what we really want is to create a space to bring in the people on the outside and include them in the process. This conference is our way of reaching out to app developers, sharing the knowledge we’ve collected over the years, and giving you a space to ask questions and provide feedback.</p>
+    <p>We’re excited to invite you to the first <strong>elementary Developer Weekend</strong> 🎉️</p>
+    <h3>Call for Papers</h3>
+    <p>We need your help to make this conference a reality and we’re now taking submissions for your presentation concepts. Topics should be primarily educational, focused on design, engineering, or entrepreneurship, and can range in target audience from those seeking to build their first app to experienced developers looking to take their apps to the next level. This is your opportunity to share your expertise with the community.</p>
+    <a class="button" href="https://github.com/elementary/edw/discussions/categories/talk-proposals">Submit a Presentation Concept →</a>
+    <p>The format will be pre-recorded presentations streamed online, with optional live Q&A following. More details about the format and how to record and submit your presentation will be shared soon.</p>
   </body>
 </html>
