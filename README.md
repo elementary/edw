@@ -1,2 +1,5 @@
-# edw-site
-A website for edw
+# edw
+
+Mini-site and resources for edw
+
+For private planning resources, see: [@elementary/edw-planning](https://github.com/edw-planning)
