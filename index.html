@@ -126,16 +126,12 @@
           0 0.125em 2em rgba(var(--alt-color), 0.25);
       }
     </style>
-    {% if jekyll.environment == "production" and site.url == "https://edw.elementary.io" %}
-      <script async defer data-domain="edw.elementary.io" src="https://stats.elementary.io/js/index.outbound-links.js"></script>
-      <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
-    {% else %}
-      <script>window.plausible = function() { console.log("Plausible not enabled in development"); }</script>
-    {% endif %}
+    <script async defer data-domain="edw.elementary.io" src="https://stats.elementary.io/js/index.outbound-links.js"></script>
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
   </head>
   <body>
     <h1>edw</h1>
-    <h2>Online · Summer 2021</h2>
+    <h2>Online · June 26–27, 2021</h2>
     <p>For years we’ve dreamed about creating a conference for Open Source app developers. There are conferences for the people already on the inside—the people building the platforms and big first-party apps, but what we really want is to create a space to bring in the people on the outside and include them in the process. This conference is our way of reaching out to app developers, sharing the knowledge we’ve collected over the years, and giving you a space to ask questions and provide feedback.</p>
     <p>We’re excited to invite you to the first <strong>elementary Developer Weekend</strong> 🎉️</p>
     <h3>Call for Papers</h3>
