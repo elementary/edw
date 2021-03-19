@@ -27,24 +27,38 @@
     <meta name="support-link" content="https://elementary.io/get-involved#funding" />
     <style>
       :root {
-        --background-color: #fafafa;
-        --primary-color: #452981;
-        --alt-color: #64baff;
-        --text-color: #333;
+        /* #fafafa in RGB */
+        --background-color: 250, 250, 250;
+
+        /* #452981 in RGB */
+        --primary-color: 69, 41, 129;
+
+        /* #64baff in RGB */
+        --alt-color: 100, 186, 255;
+
+        /* #333 in RGB */
+        --text-color: 51, 51, 51;
       }
 
       @media (prefers-color-scheme: dark) {
         :root {
-          --background-color: #0e141f;
-          --primary-color: #e4c6fa;
-          --alt-color: #89ffdd;
-          --text-color: white;
+          /* #0e141f in RGB */
+          --background-color: 14, 20, 31;
+
+          /* #e4c6fa in RGB */
+          --primary-color: 228, 198, 250;
+
+          /* #89ffdd in RGB */
+          --alt-color: 137, 255, 221;
+
+          /* white in RGB */
+          --text-color: 255, 255, 255;
         }
       }
 
       html {
-        background: var(--background-color);
-        color: var(--primary-color);
+        background: rgb(var(--background-color));
+        color: rgb(var(--primary-color));
         display: flex;
         font-family: Inter, sans-serif;
         font-size: 16px;
@@ -83,21 +97,21 @@
       }
 
       p {
-        color: var(--text-color);
+        color: rgb(var(--text-color));
         text-align: left;
         line-height: 1.5em;
       }
 
       a {
-        color: var(--primary-color);
+        color: rgb(var(--primary-color));
       }
 
       .button {
         display: inline-block;
         padding: 1em;
-        background-color: var(--primary-color);
+        background-color: rgb(var(--primary-color));
         border-radius: 0.25em;
-        color: var(--background-color);
+        color: rgb(var(--background-color));
         text-decoration: none;
         margin: 2em 1em;
         opacity: 0.8;
@@ -106,8 +120,10 @@
 
       .button:hover {
         opacity: 1;
-        background-color: var(--alt-color);
-        box-shadow: 0 0 1em var(--alt-color);
+        background-color: rgb(var(--alt-color));
+        box-shadow:
+          0 0.125em 1em rgba(var(--alt-color), 0.5),
+          0 0.125em 2em rgba(var(--alt-color), 0.25);
       }
     </style>
   </head>
