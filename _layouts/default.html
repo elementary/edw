@@ -1,0 +1,50 @@
+---
+layout: compress
+# layout: default
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}">
+    <meta itemprop="name" content="{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}">
+
+    <meta name="author" content="{{ site.author }}">
+    <meta name="theme-color" content="{{ site.color }}">
+
+    {% if page.image %}
+      {% assign prefix = page.image | slice: 0, 4 %}
+      {% if prefix == "http" %}
+        {% assign image = page.image %}
+      {% else %}
+        {% assign image = page.image | prepend: site.baseurl | prepend: site.url %}
+      {% endif %}
+      <meta property="twitter:image" content="{{ image }}" />
+    {% else %}
+      <meta property="twitter:image" content="{{ site.image }}" />
+    {% endif %}
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ site.twitter }}">
+    <meta name="twitter:creator" content="{{ site.twitter }}">
+
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+    <meta name="support-link" content="{{ site.donate }}" />
+
+    <link rel="stylesheet" type="text/css" media="all" href="{{ '/styles/main.css' | prepend: site.baseurl | append: '?v=' | append: hash }}">
+    <script async defer data-domain="edw.elementary.io" src="https://stats.elementary.io/js/index.outbound-links.js"></script>
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  </head>
+  <body>
+    {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
+  </body>
+</html>

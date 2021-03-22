@@ -1,1 +1,5 @@
 *~
+_site/
+
+# We always use the latest on GitHub Pages
+Gemfile.lock
