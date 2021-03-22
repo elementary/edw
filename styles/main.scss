@@ -1,0 +1,87 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+:root {
+  --background-color: 250, 250, 250; // #fafafa in RGB
+  --primary-color: 69, 41, 129; // #452981 in RGB
+  --alt-color: 100, 186, 255; // #64baff in RGB
+  --text-color: 51, 51, 51; // #333 in RGB
+
+  @media (prefers-color-scheme: dark) {
+    --background-color: 14, 20, 31; // #0e141f in RGB
+    --primary-color: 228, 198, 250; // #e4c6fa in RGB
+    --alt-color: 137, 255, 221; // #89ffdd in RGB
+    --text-color: 255, 255, 255; // white in RGB
+  }
+}
+
+html {
+  background: rgb(var(--background-color));
+  color: rgb(var(--primary-color));
+  display: flex;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  min-height: 100%;
+}
+
+body {
+  align-self: center;
+  margin: 2em auto;
+  max-width: 70ch;
+  padding: 1em;
+}
+
+h1 {
+  background-image: url('../logo.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 11em;
+  line-height: 1;
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 300;
+  margin: 0.5em 0 2em;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+p {
+  color: rgb(var(--text-color));
+  line-height: 1.5em;
+}
+
+a {
+  color: rgb(var(--primary-color));
+}
+
+.button {
+  background-color: rgb(var(--primary-color));
+  border-radius: 0.25em;
+  color: rgb(var(--background-color));
+  display: inline-block;
+  margin: 2em 1em;
+  opacity: 0.8;
+  padding: 1em;
+  text-decoration: none;
+  transition: all 150ms ease;
+
+  &:hover {
+    background-color: rgb(var(--alt-color));
+    box-shadow:
+      0 0.125em 1em rgba(var(--alt-color), 0.5),
+      0 0.125em 2em rgba(var(--alt-color), 0.25);
+    opacity: 1;
+  }
+}
