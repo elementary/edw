@@ -19,10 +19,11 @@
 
 html {
   background: rgb(var(--background-color));
-  color: rgb(var(--primary-color));
+  color: rgb(var(--text-color));
   display: flex;
   font-family: Inter, sans-serif;
   font-size: 16px;
+  line-height: 1.5em;
   min-height: 100%;
 }
 
@@ -46,24 +47,27 @@ h1 {
 }
 
 h2 {
+  color: rgb(var(--primary-color));
   font-size: 2em;
   font-weight: 300;
-  margin: 0.5em 0 2em;
+  margin: 0.25em 0 2em;
   text-align: center;
 }
 
 h3 {
+  color: rgb(var(--primary-color));
   font-size: 1.5em;
   font-weight: 400;
-}
-
-p {
-  color: rgb(var(--text-color));
-  line-height: 1.5em;
+  margin: 2em auto 0;
 }
 
 a {
   color: rgb(var(--primary-color));
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .button {
@@ -71,10 +75,9 @@ a {
   border-radius: 0.25em;
   color: rgb(var(--background-color));
   display: inline-block;
-  margin: 2em 1em;
+  margin: 1.5em 1em;
   opacity: 0.8;
-  padding: 1em;
-  text-decoration: none;
+  padding: 0.5em 0.75em;
   transition: all 150ms ease;
 
   &:hover {
