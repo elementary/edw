@@ -4,7 +4,8 @@ Mini-site and public resources for elementary Developer Weekend. For private pla
 
 **See, vote on, and submit [Talk Proposals](https://github.com/elementary/edw/discussions/categories/talk-proposals).**
 
-## Building & Running Locally
+<details markdown="1">
+<summary><strong>Building & Running Locally</strong></summary>
 
 This repo is a simple Jekyll-powered site hosted by GitHub Pages. To run it locally, see [the GitHub docs](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
@@ -54,3 +55,4 @@ bundle exec jekyll serve --host 0.0.0.0
 ```
 
 The site should now be available at http://0.0.0.0:4000/ on your local machine, and your local machine's IP address on your network—great for testing on mobile OSes.
+</details>
