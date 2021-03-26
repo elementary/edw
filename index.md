@@ -5,13 +5,13 @@ layout: default
 
 # {{ page.title }}
 
-## {{ site.description }}
+{{ site.description }}
 
 For years we've dreamed about creating a conference for open source app developers. There are conferences for the people already on the inside—the ones building platforms and big first-party apps, but we're bringing in those on the outside to include them in the process. This conference is our way of reaching out to app developers, sharing the knowledge we've all collected over the years, and providing a space to ask questions and provide feedback.
 
 We're excited to invite you to the first **elementary Developer Weekend** 🎉️
 
-### Call for Papers
+## Call for Papers
 
 We need your help to make this conference a reality! **The call for papers is now open through April 20, 2021.** We are accepting both Ideas and Talks:
 
@@ -19,7 +19,7 @@ We need your help to make this conference a reality! **The call for papers is no
 
 - **Talks** are proposals for presentations that you would like to give; these should be well thought out and you should be committed to preparing and recording a talk, as well as being present during the conference for any Q&A.
 
-Topics should: 
+Topics should:
 
 - Be primarily educational
 - Focus on design, engineering, or entrepreneurship
@@ -33,3 +33,11 @@ This is your opportunity to share your expertise with the community.
 </div>
 
 The format will be pre-recorded presentations streamed online, with optional live Q&A following. More details about the format and how to record and submit your presentation will be shared soon.
+
+## Register to Attend
+
+Registration will open once the schedule is announced closer to the date of the conference. You can pre-register today to express your interest and receive a link to the registration form once it goes live.
+
+<div style="text-align: center" markdown="1">
+[Pre-Register →](https://forms.gle/j2AJdro5jCFtLv5Z8){: .button }
+</div>

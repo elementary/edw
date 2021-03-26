@@ -46,7 +46,7 @@ h1 {
   text-align: center;
 }
 
-h2 {
+h1 + p {
   color: rgb(var(--primary-color));
   font-size: 2em;
   font-weight: 300;
@@ -55,11 +55,11 @@ h2 {
   text-align: center;
 }
 
-h3 {
+h2 {
   color: rgb(var(--primary-color));
   font-size: 1.5em;
   font-weight: 400;
-  margin: 2em auto 0;
+  margin: 3em auto 0;
 }
 
 a {
