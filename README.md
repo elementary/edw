@@ -4,8 +4,10 @@ Mini-site and public resources for elementary Developer Weekend. For private pla
 
 **See, vote on, and submit [Talk Proposals](https://github.com/elementary/edw/discussions/categories/talk-proposals).**
 
+---
+
 <details markdown="1">
-<summary><strong>Building & Running Locally</strong></summary>
+<summary>Building & Running Locally</summary>
 
 This repo is a simple Jekyll-powered site hosted by GitHub Pages. To run it locally, see [the GitHub docs](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
