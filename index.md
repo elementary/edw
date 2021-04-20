@@ -11,15 +11,15 @@ For years we've dreamed about creating a conference for open source app develope
 
 We're excited to invite you to the first **elementary Developer Weekend** 🎉️
 
-### Call for Papers
+### Call for Papers: Extended!
 
-We need your help to make this conference a reality! **The call for papers is now open through April 20, 2021.** We are accepting both Ideas and Talks:
+We need your help to make this conference a reality! **The call for papers has been extended through April 30, 2021.** We are accepting both Ideas and Talks:
 
 - **Ideas** are concepts for talks you'd like to hear or think would be beneficial to the community, but that you are not necessarily committed to giving yourself.
 
 - **Talks** are proposals for presentations that you would like to give; these should be well thought out and you should be committed to preparing and recording a talk, as well as being present during the conference for any Q&A.
 
-Topics should: 
+Topics should:
 
 - Be primarily educational
 - Focus on design, engineering, or entrepreneurship
