@@ -11,8 +11,18 @@ For years we've dreamed about creating a conference for open source app develope
 
 We're excited to invite you to the first **elementary Developer Weekend** 🎉️
 
-### Call for Papers: Closed
+### Merch & Sponsors
 
-Submissions for talks and ideas have been closed. We will review the submissions and announce the accepted talks soon.
+We've launched a **limited run** of edw merch on [our store][store]; check it out now to get your tee or stickers in time for edw on June 26!
 
-The format will be pre-recorded presentations streamed online, with optional live Q&A following. More details about the format and how to record and submit your presentation will be shared once the talks are announced.
+#### Become a Sponsor
+
+Help support us and our developer ecosystem by becoming a sponsor of edw. We've introduced one-time tiers on [GitHub Sponsors][sponsors] that include an **exclusive store coupon** and your name listed as a sponsor of edw.
+
+<div style="text-align: center" markdown="1">
+[Visit the Store][store]
+[Become a Sponsor][sponsors]{: .button }
+</div>
+
+[store]: https://store.elementary.io/#elementary-developer-weekend
+[sponsors]: https://github.com/sponsors/elementary?frequency=one-time
