@@ -51,24 +51,34 @@ h2 {
   font-size: 2em;
   font-weight: 300;
   line-height: 1.25em;
+  margin: 2em auto 0;
+}
+
+h1 + h2 {
   margin: 0.25em 0 2em;
   text-align: center;
 }
 
 h3 {
   color: rgb(var(--primary-color));
-  font-size: 1.5em;
+  font-size: 1.4em;
   font-weight: 400;
+  margin: 1.67em auto 0;
+}
+
+h4 {
+  font-size: 1.125em;
+  font-weight: 600;
   margin: 2em auto 0;
+
+  em {
+    font-style: normal;
+    font-weight: 400;
+  }
 }
 
 a {
   color: rgb(var(--primary-color));
-  text-decoration: none;
-  
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 .button {
@@ -79,6 +89,7 @@ a {
   margin: 1.5em 1em;
   opacity: 0.8;
   padding: 0.5em 0.75em;
+  text-decoration: none;
   transition: all 150ms ease;
 
   &:hover {
