@@ -30,7 +30,7 @@ edw will be online June 26–27 on the [elementary YouTube channel][youtube] wit
 
 ### Saturday, June 26
 
-#### 2021 State of the Platform [_by Daniel Foré_](https://github.com/danrabbit)
+#### 2021 State of the Platform _by [Daniel Foré](https://github.com/danrabbit)_
 
 A high level overview of the AppCenter platform and major advancements from the past year. We'll cover developer tools, new APIs, and some stats about the growth of our audience. Plus, some commentary on next steps.
 
