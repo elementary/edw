@@ -42,7 +42,6 @@ An overview of the initial struggles and motivations behind the launching of Aki
 
 With digital products becoming increasingly integral to our lives, how can designers and developers make sure our work is inclusive to disabled people? In this session, we will talk about how accessibility creates amazing products, applications, and experiences as well as the basic considerations of accessibility both in design and code. Learn the basics about accessibility laws, guidelines, and best practices so you can make your work even better!
 
-
 #### Improving App Development in Vala _by [Princeton Ferro](https://github.com/Prince781)_
 
 A look into the ongoing work behind the scenes to further improve the Vala developer experience, from work on the Vala Language Server to integrating this work in IDEs and with build systems, to internal improvements in the Vala compiler.
@@ -52,10 +51,6 @@ A look into the ongoing work behind the scenes to further improve the Vala devel
 #### How to Contribute to elementary OS _by [Igor Montagner](https://github.com/igordsm)_
 
 A look behind the scenes from the point of view of a new contributor to elementary OS. This talk covers both technical and personal experiences when contributing to elementary OS to show how you can get involved.
-
-#### The Importance of Defaults _by [Ravish Malik](https://github.com/ray1claw)_
-
-Learn how crucial the default out-of-the-box experience is to a user, the elementary Human Interface Guidelines around Accessible Configuration, and how the default experience must give the user what they need before taking them on a journey where they can find complexity and advancement at their own pace.
 
 #### My First AppCenter App _by [Justin Campbel](https://github.com/techdev5521)_
 
