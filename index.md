@@ -31,7 +31,7 @@ A high level overview of the AppCenter platform and major advancements from the 
 
 #### Akira: Building a UX App From Scratch _by [Alessandro Castellani](https://github.com/Alecaddd)_
 
-An overview of the initial struggles and motivations behind the launching of Akira, followed by a quick analysis of the stack currently used, the state of the app, and future plans.
+An overview of the initial struggles and motivations behind the launching of Akira—a user experience design app designed and built on elementary OS. Followed by a quick analysis of the technical stack used, a demo of the state of the app, and a peek into some future plans.
 
 #### Making an Accessible App _by [Anna E. Cook](https://github.com/annaecookux)_
 
