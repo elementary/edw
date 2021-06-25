@@ -49,7 +49,7 @@ A look behind the scenes from the point of view of a new contributor to elementa
 
 #### My Experience as a Visually Impaired Developer _by [Justin Campbell](https://github.com/techdev5521)_
 
-Hear about a developer's day-to-day usage of elementary OS as a visually impaired developer—including how it compares to other platforms he's used and how it can improve. Plus, stay for the Q&A for some discussion about contributing to and improving elementary OS for accessibility.
+Hear about a developer's day-to-day usage of elementary OS as a visually impaired developer—including how it compares to his use of other platforms and how it can further improved. Plus, stay for the Q&A for some discussion about contributing to and improving elementary OS for accessibility.
 
 #### Creating Compelling App Icons _by [Micah Ilbery](https://github.com/micahilbery)_
 
