@@ -13,8 +13,6 @@ Welcome to the first **elementary Developer Weekend** 🎉️
 
 ## Watch Live
 
-https://www.youtube.com/watch?v=MZ27OqE0mZw
-
 <div class="embed">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     <a href="https://www.youtube.com/watch?v=MZ27OqE0mZw">View on YouTube</a>
