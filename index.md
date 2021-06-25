@@ -13,7 +13,7 @@ Welcome to the first **elementary Developer Weekend** 🎉️
 
 ## Watch Live
 
-edw will air **9 AM to 12 PM PDT (16:00–19:00 UTC) June 26–27** on the [elementary YouTube channel][youtube].
+edw will air **June 26–27 from 9 AM to 12 PM PDT (16:00–19:00 UTC)** on the [elementary YouTube channel][youtube].
 
 <div class="embed">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
@@ -27,37 +27,37 @@ edw is hosted live by elementary and Jupiter Broadcasting. Each talk is pre-reco
 
 ### Saturday, June 26
 
-#### 9:00 AM PDT (16:00 UTC) **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit)
+#### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit) – 9:00 AM PDT (16:00 UTC)
 
 A high level overview of the AppCenter platform and major advancements from the past year. We'll cover developer tools, new APIs, and some stats about the growth of our audience. Plus, some commentary on next steps.
 
-#### 9:40 AM PDT (16:40 UTC) **Akira: Building a UX App From Scratch** by [Alessandro Castellani](https://github.com/Alecaddd)
+#### **Akira: Building a UX App From Scratch** by [Alessandro Castellani](https://github.com/Alecaddd) – 9:40 AM PDT (16:40 UTC)
 
 An overview of the initial struggles and motivations behind the launching of Akira—a user experience design app designed and built on elementary OS. Followed by a quick analysis of the technical stack used, a demo of the state of the app, and a peek into some future plans.
 
-#### 10:20 AM PDT (17:20 UTC) **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux)
+#### **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux) – 10:20 AM PDT (17:20 UTC)
 
 With digital products becoming increasingly integral to our lives, how can designers and developers make sure our work is inclusive to disabled people? In this session, we will talk about how accessibility creates amazing products, applications, and experiences as well as the basic considerations of accessibility both in design and code. Learn the basics about accessibility laws, guidelines, and best practices so you can make your work even better!
 
-#### 11:00 AM PDT (18:00 UTC) **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781)
+#### **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781) – 11:00 AM PDT (18:00 UTC)
 
 A look into the ongoing work behind the scenes to further improve the Vala developer experience, from work on the Vala Language Server to integrating this work in IDEs and with build systems, to internal improvements in the Vala compiler.
 
 ### Sunday, June 27
 
-#### 9:10 AM PDT (16:10 UTC) **How to Contribute to elementary OS** by [Igor Montagner](https://github.com/igordsm)
+#### **How to Contribute to elementary OS** by [Igor Montagner](https://github.com/igordsm) – 9:10 AM PDT (16:10 UTC)
 
 A look behind the scenes from the point of view of a new contributor to elementary OS. This talk covers both technical and personal experiences when contributing to elementary OS to show how you can get involved.
 
-#### 9:50 AM PDT (16:50 UTC) **My Experience as a Visually Impaired Developer** by [Justin Campbell](https://github.com/techdev5521)
+#### **My Experience as a Visually Impaired Developer** by [Justin Campbell](https://github.com/techdev5521) – 9:50 AM PDT (16:50 UTC)
 
 Hear about a developer's day-to-day usage of elementary OS as a visually impaired developer—including how it compares to his use of other platforms and how it can be further improved. Plus, stay for the Q&A for some discussion about contributing to and improving elementary OS for accessibility.
 
-#### 10:20 AM PDT (17:20 UTC) **Creating Compelling App Icons** by [Micah Ilbery](https://github.com/micahilbery)
+#### **Creating Compelling App Icons** by [Micah Ilbery](https://github.com/micahilbery) – 10:20 AM PDT (17:20 UTC)
 
 Learn how to make good app icons and why a good app icon is important. Plus, a brief walk-through of the elementary Human Interface Guidelines surrounding icons, and a demonstration of how to use the these guidelines to make an icon.
 
-#### 10:50 AM PDT (17:50 UTC) **GTK for Web Developers** by [Darshak Parikh](https://github.com/dar5hak)
+#### **GTK for Web Developers** by [Darshak Parikh](https://github.com/dar5hak) – 10:50 AM PDT (17:50 UTC)
 
 Bridge your web development know-how to the desktop world. This talk draws parallels between CSS Grid and Gtk.Grid, DOM tree and Gtk.Window hierarchy, web inspectors and GTK Inspector, web CSS and GtkCSS, and (loosely) reactive components and Gtk.Widget.
 
