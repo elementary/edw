@@ -47,9 +47,9 @@ A look into the ongoing work behind the scenes to further improve the Vala devel
 
 A look behind the scenes from the point of view of a new contributor to elementary OS. This talk covers both technical and personal experiences when contributing to elementary OS to show how you can get involved.
 
-#### My First AppCenter App _by [Justin Campbell](https://github.com/techdev5521)_
+#### My Experience as a Visually Impaired Developer _by [Justin Campbell](https://github.com/techdev5521)_
 
-Hear from a web developer with experience in React and Python as they build an app for elementary OS and AppCenter to get familiar with the workflow and tooling—plus, hear about their day-to-day usage of elementary OS as a visually impaired developer. This talk covers the process of writing, submitting, and maintaining an app for elementary OS.
+Hear about a developer's day-to-day usage of elementary OS as a visually impaired developer—including how it compares to other platforms he's used and how it can improve. Plus, stay for the Q&A for some discussion about contributing to and improving elementary OS for accessibility.
 
 #### Creating Compelling App Icons _by [Micah Ilbery](https://github.com/micahilbery)_
 
