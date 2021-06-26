@@ -17,7 +17,7 @@ Welcome to the first **elementary Developer Weekend** 🎉️
 
 ## Watch Live
 
-edw Day One aired Saturday June 26 from 9 AM to 12 PM PDT (16:00–19:00 UTC) and is available on the [elementary YouTube channel][youtube]. Day two will air Sunday **June 27 from 9 AM to 12 PM PDT (16:00–19:00 UTC)** on the [elementary YouTube channel][youtube] and right here:
+edw Day One aired Saturday June 26 from 9 AM to 12 PM PDT (16:00–19:00 UTC) and is available on the [elementary YouTube channel][youtube]. Day Two will air Sunday **June 27 from 9 AM to 12 PM PDT (16:00–19:00 UTC)** on the [elementary YouTube channel][youtube] and right here:
 
 <div class="embed">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
