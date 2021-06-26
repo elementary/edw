@@ -34,6 +34,11 @@ body {
   padding: 1em;
 }
 
+nav {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
 h1 {
   background-image: url('../logo.png');
   background-position: center center;
@@ -55,7 +60,7 @@ h2 {
 }
 
 h1 + h2 {
-  margin: 0.25em 0 2em;
+  margin: 0.25em 0 1em;
   text-align: center;
 }
 
