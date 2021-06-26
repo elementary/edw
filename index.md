@@ -31,12 +31,6 @@ edw is hosted live by [elementary] and [Jupiter Broadcasting]. Each talk is pre-
 
 ### Saturday, June 26
 
-<div class="embed">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    <a href="https://www.youtube.com/watch?v=MZ27OqE0mZw">View on YouTube</a>
-  </iframe>
-</div>
-
 #### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit) – 9:00 AM PDT (16:00 UTC)
 
 Welcome to edw 2021. Join the opening keynote for a high level overview of the AppCenter platform and major advancements from the past year. We'll cover developer tools, new APIs, and some stats about the growth of our audience. Plus, some commentary on the future followed by a live Q&A.
@@ -54,12 +48,6 @@ With digital products becoming increasingly integral to our lives, how can desig
 A look into the ongoing work behind the scenes to further improve the Vala developer experience, from work on the Vala Language Server to integrating this work in IDEs and with build systems, to internal improvements in the Vala compiler. Join Princeton afterwards for a live Q&A.
 
 ### Sunday, June 27
-
-<div class="embed">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6Px0eTRjZiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    <a href="https://www.youtube.com/watch?v=6Px0eTRjZiE">View on YouTube</a>
-  </iframe>
-</div>
 
 #### **How to Contribute to elementary OS** by [Igor Montagner](https://github.com/igordsm) – 9:10 AM PDT (16:10 UTC)
 
