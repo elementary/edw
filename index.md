@@ -20,7 +20,7 @@ Welcome to the first **elementary Developer Weekend** 🎉️
 edw Day One aired Saturday June 26 from 9 AM to 12 PM PDT (16:00–19:00 UTC) and is available on the [elementary YouTube channel][youtube]. Day Two will air Sunday **June 27 from 9 AM to 12 PM PDT (16:00–19:00 UTC)** on the [elementary YouTube channel][youtube] and right here:
 
 <div class="embed">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6Px0eTRjZiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     <a href="https://www.youtube.com/watch?v=6Px0eTRjZiE">View on YouTube</a>
   </iframe>
 </div>
@@ -56,7 +56,7 @@ A look into the ongoing work behind the scenes to further improve the Vala devel
 ### Sunday, June 27
 
 <div class="embed">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6Px0eTRjZiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     <a href="https://www.youtube.com/watch?v=6Px0eTRjZiE">View on YouTube</a>
   </iframe>
 </div>
