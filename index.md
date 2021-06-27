@@ -27,19 +27,19 @@ edw was hosted live by [elementary] and [Jupiter Broadcasting] June 26–27 from
   </iframe>
 </div>
 
-#### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit) – 9:00 AM PDT (16:00 UTC)
+#### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit) – 00:00
 
 Welcome to edw 2021. Join the opening keynote for a high level overview of the AppCenter platform and major advancements from the past year. We'll cover developer tools, new APIs, and some stats about the growth of our audience. Plus, some commentary on the future followed by a live Q&A.
 
-#### **Akira: Building a UX App From Scratch** by [Alessandro Castellani](https://github.com/Alecaddd) – 9:40 AM PDT (16:40 UTC)
+#### **Akira: Building a UX App From Scratch** by [Alessandro Castellani](https://github.com/Alecaddd) – 40:32
 
 An overview of the initial struggles and motivations behind the launching of Akira—a user experience design app designed and built on elementary OS. Followed by a quick analysis of the technical stack used, a demo of the state of the app, and a peek into some future plans. Afterwards, join Alessandro for a live Q&A answering questions from the chat.
 
-#### **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux) – 10:20 AM PDT (17:20 UTC)
+#### **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux) – 1:21:14
 
 With digital products becoming increasingly integral to our lives, how can designers and developers make sure our work is inclusive to disabled people? In this session, Anna discusses how accessibility creates amazing products, applications, and experiences as well as the basic considerations of accessibility both in design and code. Learn the basics about accessibility laws, guidelines, and best practices so you can make your work even better! Join Anna for a live Q&A immediately following the talk.
 
-#### **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781) – 11:00 AM PDT (18:00 UTC)
+#### **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781) – 2:00:47
 
 A look into the ongoing work behind the scenes to further improve the Vala developer experience, from work on the Vala Language Server to integrating this work in IDEs and with build systems, to internal improvements in the Vala compiler. Join Princeton afterwards for a live Q&A.
 
