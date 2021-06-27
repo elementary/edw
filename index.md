@@ -8,28 +8,24 @@ layout: default
 ## {{ site.description}}
 
 <nav markdown="1">
-[Watch](#watch-live) · [Schedule](#schedule--program) · [Sponsors](#sponsors--thanks) · [Store]
+[Watch](#watch) · [Sponsors](#sponsors--thanks) · [Store]
 </nav>
 
-For years we've dreamed about creating a conference for open source app developers. There are conferences for the people already on the inside—the ones building platforms and big first-party apps, but we're bringing in those on the outside to include them in the process. This conference is our way of reaching out to app developers, sharing the knowledge we've all collected over the years, and providing a space to ask questions and provide feedback.
+For years we dreamed about creating a conference for open source app developers. There are conferences for the people already on the inside—the ones building platforms and big first-party apps, but we're bringing in those on the outside to include them in the process. This conference is our way of reaching out to app developers, sharing the knowledge we've all collected over the years, and providing a space to ask questions and provide feedback.
 
 Welcome to the first **elementary Developer Weekend** 🎉️
 
-## Watch Live
+## Watch
 
-edw Day One aired Saturday June 26 from 9 AM to 12 PM PDT (16:00–19:00 UTC) and is available on the [elementary YouTube channel][youtube]. Day Two will air Sunday **June 27 from 9 AM to 12 PM PDT (16:00–19:00 UTC)** on the [elementary YouTube channel][youtube] and right here:
-
-<div class="embed">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6Px0eTRjZiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    <a href="https://www.youtube.com/watch?v=6Px0eTRjZiE">View on YouTube</a>
-  </iframe>
-</div>
-
-## Schedule & Program
-
-edw is hosted live by [elementary] and [Jupiter Broadcasting]. Each talk is pre-recorded with a live question and answer session following. See the times in your timezone at [this public calendar](https://calendar.google.com/calendar/embed?src=c_dua3i13kri85htukavcnb95q8k%40group.calendar.google.com&ctz=America%2FDenver).
+edw was hosted live by [elementary] and [Jupiter Broadcasting] June 26–27 from 9 AM to 12 PM PDT (16:00–19:00 UTC) on the [elementary YouTube channel][youtube]. Each talk was pre-recorded with a live question and answer session following.
 
 ### Saturday, June 26
+
+<div class="embed">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <a href="https://www.youtube.com/watch?v=MZ27OqE0mZw">View on YouTube</a>
+  </iframe>
+</div>
 
 #### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit) – 9:00 AM PDT (16:00 UTC)
 
@@ -49,6 +45,12 @@ A look into the ongoing work behind the scenes to further improve the Vala devel
 
 ### Sunday, June 27
 
+<div class="embed">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6Px0eTRjZiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <a href="https://www.youtube.com/watch?v=6Px0eTRjZiE">View on YouTube</a>
+  </iframe>
+</div>
+
 #### **How to Contribute to elementary OS** by [Igor Montagner](https://github.com/igordsm) – 9:10 AM PDT (16:10 UTC)
 
 A look behind the scenes from the point of view of a new contributor to elementary OS. This talk covers both technical and personal experiences when contributing to elementary OS to show how you can get involved. Join Igor after for a live Q&A.
@@ -67,7 +69,7 @@ Bridge your web development know-how to the desktop world. This talk draws paral
 
 ## Sponsors & Thanks
 
-elementary Developer Weekend is made possible by these generous [GitHub Sponsors][sponsors]:
+elementary Developer Weekend was made possible by these generous [GitHub Sponsors][sponsors]:
 
 - Adrian Cochrane ([@alcinnz](https://github.com/alcinnz))
 - Atsuya Takagi ([@atsuya](https://github.com/atsuya))
@@ -78,7 +80,7 @@ elementary Developer Weekend is made possible by these generous [GitHub Sponsors
 - Sergej Dobryak ([@syfds](https://github.com/syfds))
 - Tre Babcock ([@trebabcock](https://github.com/trebabcock))
 
-…as well as [over 500 recurring sponsors][sponsors]. We would like to specially thank [Jupiter Broadcasting] for providing infrastructure, expertise, support, and emcees for edw.
+…as well as [over 500 recurring sponsors][sponsors]. We would like to specially thank [Jupiter Broadcasting] for providing infrastructure, expertise, support, and moderation for edw.
 
 [elementary]: https://elementary.io
 [store]: https://store.elementary.io/#elementary-developer-weekend
