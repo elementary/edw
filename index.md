@@ -8,46 +8,48 @@ layout: default
 ## {{ site.description}}
 
 <nav markdown="1">
-[Watch](#watch-live) · [Schedule](#schedule--program) · [Sponsors](#sponsors--thanks) · [Store]
+[Watch](#watch) · [Sponsors](#sponsors--thanks) · [Store]
 </nav>
 
-For years we've dreamed about creating a conference for open source app developers. There are conferences for the people already on the inside—the ones building platforms and big first-party apps, but we're bringing in those on the outside to include them in the process. This conference is our way of reaching out to app developers, sharing the knowledge we've all collected over the years, and providing a space to ask questions and provide feedback.
+For years we dreamed about creating a conference for open source app developers. There are conferences for the people already on the inside—the ones building platforms and big first-party apps, but we're bringing in those on the outside to include them in the process. This conference is our way of reaching out to app developers, sharing the knowledge we've all collected over the years, and providing a space to ask questions and provide feedback.
 
 Welcome to the first **elementary Developer Weekend** 🎉️
 
-## Watch Live
+## Watch
 
-edw Day One aired Saturday June 26 from 9 AM to 12 PM PDT (16:00–19:00 UTC) and is available on the [elementary YouTube channel][youtube]. Day Two will air Sunday **June 27 from 9 AM to 12 PM PDT (16:00–19:00 UTC)** on the [elementary YouTube channel][youtube] and right here:
+edw was hosted live by [elementary] and [Jupiter Broadcasting] June 26–27 from 9 AM to 12 PM PDT (16:00–19:00 UTC) on the [elementary YouTube channel][youtube]. Each talk was pre-recorded with a live question and answer session following.
+
+### Saturday, June 26
+
+<div class="embed">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <a href="https://www.youtube.com/watch?v=MZ27OqE0mZw">View on YouTube</a>
+  </iframe>
+</div>
+
+#### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit) – 00:00
+
+Welcome to edw 2021. Join the opening keynote for a high level overview of the AppCenter platform and major advancements from the past year. We'll cover developer tools, new APIs, and some stats about the growth of our audience. Plus, some commentary on the future followed by a live Q&A.
+
+#### **Akira: Building a UX App From Scratch** by [Alessandro Castellani](https://github.com/Alecaddd) – 40:32
+
+An overview of the initial struggles and motivations behind the launching of Akira—a user experience design app designed and built on elementary OS. Followed by a quick analysis of the technical stack used, a demo of the state of the app, and a peek into some future plans. Afterwards, join Alessandro for a live Q&A answering questions from the chat.
+
+#### **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux) – 1:21:14
+
+With digital products becoming increasingly integral to our lives, how can designers and developers make sure our work is inclusive to disabled people? In this session, Anna discusses how accessibility creates amazing products, applications, and experiences as well as the basic considerations of accessibility both in design and code. Learn the basics about accessibility laws, guidelines, and best practices so you can make your work even better! Join Anna for a live Q&A immediately following the talk.
+
+#### **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781) – 2:00:47
+
+A look into the ongoing work behind the scenes to further improve the Vala developer experience, from work on the Vala Language Server to integrating this work in IDEs and with build systems, to internal improvements in the Vala compiler. Join Princeton afterwards for a live Q&A.
+
+### Sunday, June 27
 
 <div class="embed">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6Px0eTRjZiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     <a href="https://www.youtube.com/watch?v=6Px0eTRjZiE">View on YouTube</a>
   </iframe>
 </div>
-
-## Schedule & Program
-
-edw is hosted live by [elementary] and [Jupiter Broadcasting]. Each talk is pre-recorded with a live question and answer session following. See the times in your timezone at [this public calendar](https://calendar.google.com/calendar/embed?src=c_dua3i13kri85htukavcnb95q8k%40group.calendar.google.com&ctz=America%2FDenver).
-
-### Saturday, June 26
-
-#### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit) – 9:00 AM PDT (16:00 UTC)
-
-Welcome to edw 2021. Join the opening keynote for a high level overview of the AppCenter platform and major advancements from the past year. We'll cover developer tools, new APIs, and some stats about the growth of our audience. Plus, some commentary on the future followed by a live Q&A.
-
-#### **Akira: Building a UX App From Scratch** by [Alessandro Castellani](https://github.com/Alecaddd) – 9:40 AM PDT (16:40 UTC)
-
-An overview of the initial struggles and motivations behind the launching of Akira—a user experience design app designed and built on elementary OS. Followed by a quick analysis of the technical stack used, a demo of the state of the app, and a peek into some future plans. Afterwards, join Alessandro for a live Q&A answering questions from the chat.
-
-#### **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux) – 10:20 AM PDT (17:20 UTC)
-
-With digital products becoming increasingly integral to our lives, how can designers and developers make sure our work is inclusive to disabled people? In this session, Anna discusses how accessibility creates amazing products, applications, and experiences as well as the basic considerations of accessibility both in design and code. Learn the basics about accessibility laws, guidelines, and best practices so you can make your work even better! Join Anna for a live Q&A immediately following the talk.
-
-#### **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781) – 11:00 AM PDT (18:00 UTC)
-
-A look into the ongoing work behind the scenes to further improve the Vala developer experience, from work on the Vala Language Server to integrating this work in IDEs and with build systems, to internal improvements in the Vala compiler. Join Princeton afterwards for a live Q&A.
-
-### Sunday, June 27
 
 #### **How to Contribute to elementary OS** by [Igor Montagner](https://github.com/igordsm) – 9:10 AM PDT (16:10 UTC)
 
@@ -67,7 +69,7 @@ Bridge your web development know-how to the desktop world. This talk draws paral
 
 ## Sponsors & Thanks
 
-elementary Developer Weekend is made possible by these generous [GitHub Sponsors][sponsors]:
+elementary Developer Weekend was made possible by these generous [GitHub Sponsors][sponsors]:
 
 - Adrian Cochrane ([@alcinnz](https://github.com/alcinnz))
 - Atsuya Takagi ([@atsuya](https://github.com/atsuya))
@@ -78,7 +80,7 @@ elementary Developer Weekend is made possible by these generous [GitHub Sponsors
 - Sergej Dobryak ([@syfds](https://github.com/syfds))
 - Tre Babcock ([@trebabcock](https://github.com/trebabcock))
 
-…as well as [over 500 recurring sponsors][sponsors]. We would like to specially thank [Jupiter Broadcasting] for providing infrastructure, expertise, support, and emcees for edw.
+…as well as [over 500 recurring sponsors][sponsors]. We would like to specially thank [Jupiter Broadcasting] for providing infrastructure, expertise, support, and moderation for edw.
 
 [elementary]: https://elementary.io
 [store]: https://store.elementary.io/#elementary-developer-weekend
