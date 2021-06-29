@@ -21,35 +21,35 @@ edw was hosted live by [elementary] and [Jupiter Broadcasting] June 26–27 from
 
 ### Saturday, June 26
 
-<div class="embed">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZ27OqE0mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    <a href="https://www.youtube.com/watch?v=MZ27OqE0mZw">View on YouTube</a>
-  </iframe>
-</div>
+The whole day can be viewed as it streamed, or each talk can be viewed below with its Q&A (as the videos are edited and uploaded).
 
-#### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit) – 00:00
+{% include youtube.html id="MZ27OqE0mZw" %}
+
+#### **2021 State of the Platform** by [Daniel Foré](https://github.com/danrabbit)
+
+{% include youtube.html id="x_ckIbnnUYY" %}
 
 Welcome to edw 2021. Join the opening keynote for a high level overview of the AppCenter platform and major advancements from the past year. We'll cover developer tools, new APIs, and some stats about the growth of our audience. Plus, some commentary on the future followed by a live Q&A.
 
-#### **Akira: Building a UX App From Scratch** by [Alessandro Castellani](https://github.com/Alecaddd) – 40:32
+#### **Akira: Building a UX App From Scratch** by [Alessandro Castellani](https://github.com/Alecaddd)
+
+{% include youtube.html id="1_Lyx550Js8" %}
 
 An overview of the initial struggles and motivations behind the launching of Akira—a user experience design app designed and built on elementary OS. Followed by a quick analysis of the technical stack used, a demo of the state of the app, and a peek into some future plans. Afterwards, join Alessandro for a live Q&A answering questions from the chat.
 
-#### **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux) – 1:21:14
+#### **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux)
 
 With digital products becoming increasingly integral to our lives, how can designers and developers make sure our work is inclusive to disabled people? In this session, Anna discusses how accessibility creates amazing products, applications, and experiences as well as the basic considerations of accessibility both in design and code. Learn the basics about accessibility laws, guidelines, and best practices so you can make your work even better! Join Anna for a live Q&A immediately following the talk.
 
-#### **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781) – 2:00:47
+#### **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781)
 
 A look into the ongoing work behind the scenes to further improve the Vala developer experience, from work on the Vala Language Server to integrating this work in IDEs and with build systems, to internal improvements in the Vala compiler. Join Princeton afterwards for a live Q&A.
 
 ### Sunday, June 27
 
-<div class="embed">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6Px0eTRjZiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    <a href="https://www.youtube.com/watch?v=6Px0eTRjZiE">View on YouTube</a>
-  </iframe>
-</div>
+The whole day can be viewed as it streamed:
+
+{% include youtube.html id="6Px0eTRjZiE" %}
 
 #### **How to Contribute to elementary OS** by [Igor Montagner](https://github.com/igordsm) – 9:10 AM PDT (16:10 UTC)
 
