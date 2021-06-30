@@ -21,7 +21,7 @@ edw was hosted live by [elementary] and [Jupiter Broadcasting] June 26–27 from
 
 ### Saturday, June 26
 
-The whole day can be viewed as it streamed, or each talk can be viewed below with its Q&A (as the videos are edited and uploaded).
+The whole day can be viewed as it streamed, or each talk can be viewed below with its Q&A.
 
 {% include youtube.html id="MZ27OqE0mZw" %}
 
@@ -39,31 +39,44 @@ An overview of the initial struggles and motivations behind the launching of Aki
 
 #### **Making an Accessible App** by [Anna E. Cook](https://github.com/annaecookux)
 
+{% include youtube.html id="tbNwLfRj4Fg" %}
+
 With digital products becoming increasingly integral to our lives, how can designers and developers make sure our work is inclusive to disabled people? In this session, Anna discusses how accessibility creates amazing products, applications, and experiences as well as the basic considerations of accessibility both in design and code. Learn the basics about accessibility laws, guidelines, and best practices so you can make your work even better! Join Anna for a live Q&A immediately following the talk.
 
 #### **Improving App Development in Vala** by [Princeton Ferro](https://github.com/Prince781)
+
+{% include youtube.html id="hDe92x4qqEM" %}
+
 
 A look into the ongoing work behind the scenes to further improve the Vala developer experience, from work on the Vala Language Server to integrating this work in IDEs and with build systems, to internal improvements in the Vala compiler. Join Princeton afterwards for a live Q&A.
 
 ### Sunday, June 27
 
-The whole day can be viewed as it streamed:
+The whole day can be viewed as it streamed, or each talk can be viewed below with its Q&A.
 
 {% include youtube.html id="6Px0eTRjZiE" %}
 
 #### **How to Contribute to elementary OS** by [Igor Montagner](https://github.com/igordsm) – 9:10 AM PDT (16:10 UTC)
 
+{% include youtube.html id="gt-i72QL7hU" %}
+
 A look behind the scenes from the point of view of a new contributor to elementary OS. This talk covers both technical and personal experiences when contributing to elementary OS to show how you can get involved. Join Igor after for a live Q&A.
 
 #### **My Experience as a Visually Impaired Developer** by [Justin Campbell](https://github.com/techdev5521) – 9:50 AM PDT (16:50 UTC)
+
+{% include youtube.html id="7bNniyG3_KM" %}
 
 Hear about a developer's day-to-day usage of elementary OS as a visually impaired developer—including how it compares to his use of other platforms and how it can be further improved. Plus, stay for the Q&A for some discussion about contributing to and improving elementary OS for accessibility.
 
 #### **Creating Compelling App Icons** by [Micah Ilbery](https://github.com/micahilbery) – 10:20 AM PDT (17:20 UTC)
 
+{% include youtube.html id="Zi06y0g0EBM" %}
+
 Learn how to make good app icons and why a good app icon is important. Plus, a brief walk-through of the elementary Human Interface Guidelines surrounding icons, and a demonstration of how to use these guidelines to make an icon. Join Micah live afterwards for a Q&A.
 
 #### **GTK for Web Developers** by [Darshak Parikh](https://github.com/dar5hak) – 10:50 AM PDT (17:50 UTC)
+
+{% include youtube.html id="HgDpTARVYX0" %}
 
 Bridge your web development know-how to the desktop world. This talk draws parallels between CSS Grid and Gtk.Grid, DOM tree and Gtk.Window hierarchy, web inspectors and GTK Inspector, web CSS and GtkCSS, and (loosely) reactive components and Gtk.Widget. Plus a live Q&A with Darshak following the talk.
 
